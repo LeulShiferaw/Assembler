@@ -5,8 +5,8 @@ I also built that computer using the hardware simulator.
 
 If you want to run this program:
 1. Put the .asm file in the same place as the assem executable file.
-2. Then call assem "yourasmfile.asm"
-3. The resulting assembly code will be generated for the hack computer.
+2. Then call 'assem yourasmfile.asm'
+3. The resulting assembly code will be generated for the hack computer in "Prog.hack".
 
 This program has been tested by comparing the actual machine code for the .asm that are currently present in the folder.
    
