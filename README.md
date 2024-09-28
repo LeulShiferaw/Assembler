@@ -1,4 +1,4 @@
-#Assembler Project for Elements of Computing System hack computer
+# Assembler Project for Elements of Computing System hack computer
 
 The machine code this generates is not for regular computers but for the hack computer built in elements of computing systems.
 I also built that computer using the hardware simulator. 
